@@ -5,3 +5,5 @@ In this program, you enter how many times you weighed yourself (I weigh myself m
 and then you get the average of that in the "Log.txt" file.
 
 You can either enter a new log, restart all previous logs, print previous logs, or quit the program.
+
+# Accepting improvements in order to up my coding!
