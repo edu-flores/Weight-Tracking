@@ -1,0 +1,9 @@
+_________________________
+
+Fitness_Proyect.py 
+
+#List of records.
+Format:
+
+Weight kilograms (DD/MM)
+--------------------
